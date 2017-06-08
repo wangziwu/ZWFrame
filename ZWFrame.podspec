@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
-  s.name    = 'UIView+ZWFrame'
-  s.version = '0.0.1'
+  s.name    = 'ZWFrame'
+  s.version = '0.0.2'
   s.summary = '基本UIView坐标设置的category'
   s.homepage  = 'https://github.com/wangziwu/ZWFrame'
   s.license = 'MIT'
